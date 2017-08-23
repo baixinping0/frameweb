@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="frameuse:war">
+    <output-path>$PROJECT_DIR$/frameuse/target</output-path>
+    <root id="archive" name="struts-web.war">
+      <element id="artifact" artifact-name="frameuse:war exploded" />
+    </root>
+  </artifact>
+</component>
